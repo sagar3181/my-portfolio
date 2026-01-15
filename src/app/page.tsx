@@ -120,8 +120,8 @@ const experiences: Experience[] = [
     description: "Led optimization of Saltify, an open-source transcription tool for speech analysis.",
     achievements: [
       "Optimized transcription pipeline via multithreading, reducing processing time (1m20s → 45s). ",
-      "Automated CI/CD via GitHub Actions, reducing build time by 10m per deployment. [cite: 14]",
-      "Maintainer of production environment, managing code reviews and system stability. [cite: 10]"
+      "Automated CI/CD via GitHub Actions, reducing build time by 10m per deployment.",
+      "Maintainer of production environment, managing code reviews and system stability."
     ],
     color: "border-t-blue-500"
   },
@@ -133,8 +133,8 @@ const experiences: Experience[] = [
     description: "Automated reporting workflows and asynchronous data updates.",
     achievements: [
       "Reduced manual reporting time by 85% by automating data extraction via SQL/Python. ",
-      "Integrated REST APIs for real-time, asynchronous updates between departments. [cite: 20]",
-      "Improved visualization efficiency by 30% through interactive Power BI dashboards. [cite: 18]"
+      "Integrated REST APIs for real-time, asynchronous updates between departments. ",
+      "Improved visualization efficiency by 30% through interactive Power BI dashboards."
     ],
     color: "border-t-green-500"
   },
@@ -145,9 +145,9 @@ const experiences: Experience[] = [
     period: "Feb 2022 - July 2022",
     description: "Applied machine learning to improve product recommendation relevance.",
     achievements: [
-      "Improved recommendation relevance by 20% using collaborative filtering (KNN). [cite: 23]",
-      "Streamlined analysis environments using Docker to improve reproducibility. [cite: 25]",
-      "Extracted behavioral data from MySQL and MongoDB to support search insights. [cite: 24]"
+      "Improved recommendation relevance by 20% using collaborative filtering (KNN).",
+      "Streamlined analysis environments using Docker to improve reproducibility. ",
+      "Extracted behavioral data from MySQL and MongoDB to support search insights. "
     ],
     color: "border-t-yellow-500"
   }
